@@ -101,6 +101,8 @@ int calc_3() {
     }
   }
 }
+
+
 int main(int argc, char * argv[]) {
   srand((unsigned int) time(NULL));
   while (1) {
